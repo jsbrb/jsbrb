@@ -50,7 +50,7 @@ Actualmente me centro en el desarrollo backend con **Java** y **Spring Boot**, y
 
 ## 🔥 Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbrb&layout=donut-vertical&langs_count=10&theme=github_dark&exclude_repo=jscdc.github.io)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbrb&layout=donut-vertical&langs_count=10&theme=github_dark&exclude_repo=jsbrb.github.io)
 
 
 ## 📊 Estadísticas de GitHub
