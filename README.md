@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Javier Sánchez
 
-Soy un desarrollador en formación, apasionado por crear soluciones que hagan la vida más fácil y divertida.
-Actualmente me centro en el desarrollo backend con **Java** y **Spring Boot**, y siempre estoy buscando aprender nuevas tecnologías para seguir creciendo profesionalmente.
+Soy desarrollador backend **en formación**, con enfoque en Java y Spring Boot. Me apasiona la tecnología y disfruto crear soluciones que aporten valor real. Actualmente trabajo en **Grupo Elecnor** como **Java Junior Developer**, y continúo desarrollando mis habilidades técnicas y profesionales en el área del desarrollo de software.
 
 ---
 
