@@ -6,13 +6,13 @@ Soy desarrollador backend **en formación**, con enfoque en Java y Spring Boot. 
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en **Grupo Elecnor** como **Java Junior Developer**
-- 🌱 Aprendiendo sobre **Cloud Computing**, **DevOps** y **Microservicios**
-- 👯 Busco colaborar en proyectos open source y comunitarios
-- 📫 Puedes contactarme en: [javibrb@protonmail.com](mailto:javibrb@protonmail.com)
-- ⚡ Fun fact: Me encanta el café ☕ y el deporte ⛹️
+- 💼 Actualmente trabajando en **Grupo Elecnor** como **Java Junior Developer**
+- 📚 Formándome en **Cloud Computing**, **DevOps** y **Microservicios**
+- 🤝 Interesado en colaborar en proyectos **open source** y con impacto social
+- 📫 Contacto: [javibrb@protonmail.com](mailto:javibrb@protonmail.com)
+- ☕ Apasionado por el café y el deporte como motores de energía y enfoque
 
-### 🌐 Puedes encontrarme en:
+### 🌐 Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-s-6ab9a4303)
 
@@ -60,4 +60,4 @@ Soy desarrollador backend **en formación**, con enfoque en Java y Spring Boot. 
 ---
 
 ¡Gracias por visitar mi perfil!  
-Si quieres charlar o colaborar, no dudes en contactarme 😊
+Estoy abierto a nuevas oportunidades y colaboraciones. ¡Será un gusto conectar contigo!
