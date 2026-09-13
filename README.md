@@ -1,63 +1,52 @@
-# 👋 ¡Hola! Soy Javier Sánchez
+# Hola, soy Javi
 
-Soy desarrollador backend **en formación**, con enfoque en Java y Spring Boot. Me apasiona la tecnología y disfruto crear soluciones que aporten valor real. Actualmente trabajo en **Grupo Elecnor** como **Java Junior Developer**, y continúo desarrollando mis habilidades técnicas y profesionales en el área del desarrollo de software.
+Soy desarrollador en **GDX Group**, en Valencia. Y esto que estás viendo —
+**The North Code** — es mi marca personal. *North*, por el norte que me vio
+nacer. *Code*, por lo que me apasiona.
 
----
+Mi base es el backend Java: Spring Boot, APIs, bases de datos. Mi foco está
+en las partes del oficio que la IA no puede hacer por nadie — entender el
+problema, diseñar la solución y dejarla por escrito. Luego la IA ejecuta,
+y yo dirijo.
 
-## 🚀 Sobre mí
+Por eso trabajo con **Spec-Driven Development**: las especificaciones, la
+documentación y el testing dirigen el proyecto; no lo adornan.
 
-- 💼 Actualmente trabajando en **Grupo Elecnor** como **Java Junior Developer**
-- 📚 Formándome en **Cloud Computing**, **DevOps** y **Microservicios**
-- 🤝 Interesado en colaborar en proyectos **open source** y con impacto social
-- 📫 Contacto: [javibrb@protonmail.com](mailto:javibrb@protonmail.com)
-- ☕ Apasionado por el café y el deporte como motores de energía y enfoque
+## Lo que estoy construyendo
 
-### 🌐 Encuéntrame en:
+Bajo The North Code, webs para clientes reales, ya en producción:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-s-6ab9a4303)
+- [Amaini](https://amainipsicologia.com) — marca personal de una psicóloga, con blog que la clienta gestiona sola y email marketing integrado
+- [JD Soluciones Eléctricas](https://www.jdsolucioneselectricas.es) — web corporativa para una eléctrica de Valencia
 
----
+Y productos propios:
 
-## 🛠 Tecnologías & Herramientas
+- **SindicApp** — SaaS multi-tenant para comunicación sindical (Java, Spring Boot, Angular, Flutter)
+- **ValenMetro** — app Android publicada con los datos abiertos de Metrovalencia (Kotlin, 7 releases en producción)
+- **ParkManager** — gestión de parkings con monorepo full-stack (TypeScript, Express, React)
 
-### 🖥️ Backend / Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+El detalle de cada uno, en [thenorthcode.es](https://www.thenorthcode.es).
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Stack
 
-### 🛢️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1F262A?style=for-the-badge&logo=h2&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+Backend con Java + Spring Boot, también PHP y Python. Frontend con Astro,
+TypeScript, React y Tailwind. Docker y GitHub Actions cuando toca.
+La herramienta adecuada para cada trabajo, nunca tecnología por moda.
 
-### 🧰 Herramientas
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+## Formación
 
----
+- CFGS en Desarrollo Web
+- CFGS en Desarrollo Multiplataforma
+- Post-grado en Desarrollo de Aplicaciones Java con Spring
+- Máster en Desarrollo con IA — Big School
+- Grado en Ingeniería Informática (en curso)
 
-## 🔥 Lenguajes más usados
+## Hablemos
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jsbrb&layout=donut-vertical&langs_count=10&theme=github_dark&exclude_repo=jsbrb.github.io)
+¿Tienes un proyecto en mente? Respondo en un día laborable.
 
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jsbrb&show_icons=true&theme=github_dark)
-
+[thenorthcode.es](https://www.thenorthcode.es) · [info@thenorthcode.es](mailto:info@thenorthcode.es) · [LinkedIn](https://www.linkedin.com/in/javier-s-6ab9a4303)
 
 ---
 
-¡Gracias por visitar mi perfil!  
-Estoy abierto a nuevas oportunidades y colaboraciones. ¡Será un gusto conectar contigo!
+*La IA ejecuta. El humano dirige.*
